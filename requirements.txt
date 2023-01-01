@@ -8,3 +8,4 @@ sqlalchemy
 mysql-connector-python
 jupyter
 Werkzeug==0.14.1
+matplotlib==0.25.3
